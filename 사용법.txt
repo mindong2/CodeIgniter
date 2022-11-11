@@ -1,0 +1,10 @@
+wampstack -> apache2 -> htdocs 에 해당 클론받은 폴더 위치
+
+
+
+wampstack -> apache2 -> bitnami -> bitnami.conf에 
+
+기존경로에서 
+
+  DocumentRoot "C:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\sample"
+  <Directory "C:\Bitnami\wampstack-8.1.12-0\apache2\htdocs\sample"> 수정
